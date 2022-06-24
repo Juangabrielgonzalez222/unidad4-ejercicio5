@@ -1,5 +1,4 @@
 import tkinter as tk
-from PacienteForm import PacienteForm
 class VerImc(tk.Toplevel):
     def __init__(self, parent):
         super().__init__(parent)
